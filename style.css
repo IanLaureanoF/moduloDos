@@ -1,0 +1,27 @@
+body{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+background-image: url(img/cubos.png);
+color: antiquewhite;
+}
+
+h1{
+text-align: center;
+}
+
+div{
+background-color: rgba(255, 228, 196, 0.301);
+border: solid rgba(25, 0, 255, 0.411) 0.8ex;
+width: 80%;
+margin: auto;
+text-align: center;
+box-shadow: 1px 0px 100px rgb(23, 64, 97);
+border-radius: 10px 10px 10px 10px
+}
+
+nav {
+text-align: center;
+padding: 10px;
+background-color: rgba(132, 0, 255, 0.514);
+border: solid 1px whitesmoke;
+
+}
